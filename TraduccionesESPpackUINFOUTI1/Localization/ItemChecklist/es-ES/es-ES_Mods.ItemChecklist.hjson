@@ -1,0 +1,123 @@
+Configs: {
+	ItemChecklistClientConfig: {
+		ShowItemModSource: {
+			Label: Mostrar a que mod pertenece el objeto
+			Tooltip: Al estar activado, se mostrará a cuál mod pertenece el objeto que aparece en el catálogo(checklist). Desactivar para más inmersión.
+		}
+
+		DisplayName: config. del cliente en Item Checklist
+		Headers.AutomaticSettings: Ajustes automáticos
+
+		ItemChecklistSize: {
+			Label: Tamaño de la checklist
+			Tooltip: Tamaño de la IU del catálogo de objetos. Se guardará automáticamente; no es necesario ajustarlo.
+		}
+
+		ItemChecklistPosition: {
+			Label: Posición de la checklist
+			Tooltip: Posición de la IU del catálogo de objetos. Se guardará automáticamente; no es necesario ajustarlo.
+		}
+	}
+}
+
+Keybinds.ToggleItemChecklist.DisplayName: Mostrar/ocultar el Item Checklist
+GlobalItem.ItemChecklistAnnounceText: Encontraste tu primer {0}.     {1}/{2}   {3}%
+
+UICollectionBar: {
+	collectionTotalText: Total: {0}/{1} ({2}% coleccionado)
+	collectionTerrariaText: Terraria: {0}/{1} ({2}% coleccionado)
+	collectionModText: "{0}: {1}/{2} ({3}% coleccionado)"
+}
+
+Ui: {
+	FilterByTooltipText: Filtrar por la descripción
+	FilterByNameText: Filtrar por nombre
+	ToggleCollectChestItemsText: Activar/desactivar la recolección de objetos del cofre
+	ToggleMessagesText: Activar/desactivar mensajes
+	ShowSortValueTextText: Mostrar texto del valor de ordenación
+	CycleModFilterText: Cambiar el filtro de mod: {0}
+	CycleFoundFilterText: Cambiar el filtro del catálogo: {0}
+	ModnamesAllText: Mostrar todos
+	FoundFilterAllText: Todos los objetos
+	FoundFilterUnfoundText: Objetos no encontrados
+	FoundFilterFoundText: Objetos encontrados
+	ModnamesVanillaText: Vanilla
+}
+
+SharedUI: {
+	mutuallyExclusiveFilterVanityText: Vanidad
+	mutuallyExclusiveFilterArmorText: Armaduras
+	cycleAmmoTypesText: Cambiar el tipos de munición
+	cycleUsedAmmoTypesText: Cambiar el tipos de munición usada
+	categoryAllText: Todos
+	categoryMeleeText: Cuerpo a cuerpo
+	categoryYoyoText: Yoyos
+	categoryMagicText: Magia
+	categoryRangedText: Distancia
+	sortUseAmmoTypeText: Por el tipo de munición usada
+	categoryThrowingText: Arrojadizas
+	categorySummonText: Invocador
+	categorySentryText: Centinelas
+	sortDamageText: Daño
+	categoryToolsText: Herramientas
+	categoryPickaxesText: picos
+	categoryAxesText: Hachas
+	categoryHammersText: Martillos
+	categoryArmorText: Armaduras
+	categoryWeaponsText: Armas
+	sortValueText: Valor
+	sortAlphabeticalText: Alfabético
+	sortRarityText: Rareza
+	sortTerrariaSortText: Usar el clasificador de Terraria
+	filterMaterialsText: Materiales
+	sortPickPower: Potencia de pico
+	sortAxePower: Potencia de hacha
+	sortHammerPower: Potencia de martillo
+	categoryHead: Cabeza
+	categoryBody: Cuerpo
+	categoryLegs: Piernas
+	sortDefense: Defensa
+	categoryTiles: Objetos
+	categoryContainersText: Contenedores
+	categoryWiringText: Alambrado/cable
+	categoryStatuesText: Estatuas
+	categoryDoorsText: Puertas
+	categoryChairsText: Sillas
+	categoryTablesText: Mesas
+	categoryLightSourcesText: Fuentes de luz
+	categoryTorchesText: Antorchas
+	categoryWallsText: Paredes
+	categoryAccessoriesText: Accesorios
+	categoryWingsText: Alas
+	categoryAmmoText: Munición
+	categoryPotionsText: Pociones
+	categoryHealthPotionsText: Pociones de vida
+	categoryManaPotionsText: Pociones de maná
+	categoryBuffPotionsText: Pociones que te dan un buff/potencian
+	categoryExpertText: Experto
+	categoryPetsText: Mascotas
+	categoryLightPetsText: Mascotas de luz
+	categoryMountsText: Monturas
+	categoryCartsText: Vagonetas
+	categoryHooksText: Ganchos
+	categoryDyesText: Tintes
+	categoryHairDyesText: Tintes para el cabello
+	categoryBossSummonsText: Invocadores de jefes
+	categoryConsumablesText: Consumibles
+	categoryCapturedNPCText: NPC capturados
+	categoryFishingText: Pesca
+	categoryPolesText: Cañas de pescar
+	categoryBaitText: Cebos
+	categoryQuestFishText: Pescados de misión
+	categoryExtractinatorText: Expriminator
+	categoryOtherText: Otros
+	sortItemIdText: ID del objeto
+	sortPlaceTileText: Objetos que se pueden colocar
+	sortAmmoTypeText: Tipo de munición
+	sortHealLifeText: Vida recuperada
+	sortHealManaText: Maná recuperado
+	sortGrappleRangeText: Alcance de gancho
+	sortProgressionOrderText: Orden de progresión
+	sortPolePowerText: Poder de pesca
+	sortBaitPowerText: Potencia de cebo
+}

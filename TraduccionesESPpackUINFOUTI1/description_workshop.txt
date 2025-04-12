@@ -1,0 +1,50 @@
+[h1]¡Bienvenidos al primer pack de Traducciones ESP![/h1]
+
+Este primer pack cuenta con 11 archivos de traducción para darle soporte a 12 mods.
+
+[h2]Aquí está la lista de los mods soportados por este pack[/h2]
+
+Boss Checklist
+Boss Checklist Lite
+Boss Cursor
+Census - Town NPC Checklist
+Cheat Sheet
+HERO's Mod
+Item Checklist
+Recipe Viewer
+Munchies - Consumables Checklist
+Recipe Browser
+Recipe Browser include Magic Storage
+Which Mod Is This From?
+
+También puede ver la lista aquí: https://steamcommunity.com/sharedfiles/filedetails/?id=3455130219
+
+[h2]Datos relevantes[/h2]
+
+No se necesita tener todos los mods instalados, ya que al tener activos algunos de la lista, este mod cargará, de manera automática, la traducción.
+
+El mod Boss Checklist, Boss Checklist Lite y  Recipe Browser, se expandió la traducción a todos ellos, ya que gran parte de esos mods ya estaban en español.
+Y en el caso del mod Cheat Sheet y HERO's Mod, la expansión de la traducción fue poca.
+Créditos a los traductores originales de los 5 mods, por su trabajo.
+
+El caso del mod Recipe Browser include Magic Storage. El mod usa de manera directa la traducción original de Magic Storage, por esa razón tiene 11 archivos de traducción en este paquete y no 12.
+
+No estoy afiliado con ninguno de los propietarios de cada mod soportado por este paquete.
+
+El proyecto de este pack está de manera pública en [url=https://github.com/Elocura/TraduccionesESPpackUINFOUTI1]Github[/url]
+
+También se harán públicos los videos explicando cómo hacer la primera versión de este paquete de traducción, para que más personas se animen a hacerlos en cualquier idioma que quieran y en unos días se grabará un clip mostrando el "añadido" que se realizó, para hacer este paquete.
+
+[h2]Formas de apoyar al proyecto Traducciones ESP[/h2]
+
+- Subscribiéndose o dándole "Me gusta" a nuestras traducciones
+- Apoyando de forma económica a través de nuestro perfil de [url=ko-fi.com/traduccionesesp]Ko-fi[/url]
+
+[h3]Datos extras[/h3]
+
+Este proyecto estuvo en mi mente desde febrero y a finales de ese mismo mes, se hicieron las primeras pruebas con resultados positivos y, luego de retomarlo el mes pasado, traducir más mods y/o expandir su traducción por varias semanas, hacer la planificación, buscar más información y hacer preguntas en algunos grupos de discord. Dando como resultado este mod, y se planea publicar otro paquete más, para darle uso a algunas traducciones ya publicadas y otras no.
+
+Si encuentran algún error ortográfico, quieren hacer algún comentario respecto a la traducción o tienen alguna duda, ¡no duden en comentarlo!
+¡Muchas gracias por el apoyo que ha recibido y sigue recibiendo los demás proyectos publicados, nos veremos, si es posible, en el siguiente paquete!
+
+Si quiere ver más información de este mod, como lo son, los otros mods de traducciones, ver el proyecto, pero en github o cómo apoyar, visite este mod en el workshop de steam.

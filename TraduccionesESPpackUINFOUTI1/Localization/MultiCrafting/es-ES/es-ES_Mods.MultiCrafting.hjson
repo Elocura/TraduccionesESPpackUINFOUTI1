@@ -1,0 +1,88 @@
+Keybinds.SetRecipe.DisplayName: Establecer receta/Mostrar árbol
+
+Configs: {
+	CraftingConfig: {
+		DisplayName: Configuración de elaboración
+
+		Headers: {
+			RecipeSettings: Configuración de recetas
+			LineSettings: Ajustes de línea
+			DebugSettings: Configuración de depuración/Debug
+		}
+
+		AllowWhenTyping: {
+			Label: Allow When Typing
+			Tooltip: ""
+		}
+
+		MaxIngredients: {
+			Label: Cantidad máxima de ingredientes visibles
+			Tooltip:
+			'''
+			Si una receta está hecha de 5 ingredientes distintos y el valor de
+			esta opción está en 3, solo mostrará 3 ingredientes de los 5 que tiene la receta.
+			Los cambios solo afectan a la opción 'Ingredients checklist'
+			'''
+		}
+
+		MaxCraftingSteps: {
+			Label: Pasos máximos de elaboración
+			Tooltip:
+			'''
+			Cantidad máxima de pasos que serán mostrados en el árbol de recetas
+			Si una receta necesita 5 pasos para ser elaborada, pero el valor de la opción es de 2
+			Solo mostrará 2 pasos de los 5 pasos necesarios para terminar la receta
+			Los cambios solo afectan a la opción 'View tree'
+			'''
+		}
+
+		AllowBannerUse: {
+			Label: Permitir el uso del banner
+			Tooltip: Habilita/deshabilita el uso de banners en la receta (Principalmente útil con Fargo)
+		}
+
+		StopWhenOwned: {
+			Label: Detenerse cuando se posee
+			Tooltip: No genera recetas de artículos que ya posees
+		}
+
+		VisualizeTree: {
+			Label: Visualizar árbol
+			Tooltip:
+			'''
+			Aumenta el lag al generar la receta, así como los ingredientes percibidos
+			Si desactivas esta opción, no podrás ver el árbol de recetas sin importar si usas la tecla para mostrarlo
+			'''
+		}
+
+		GenerateRecipe: {
+			Label: Generar receta
+			Tooltip: Agrega una receta que te permite hacer el objeto directamente con sus ingredientes
+		}
+
+		ShowOwnedOnTree: {
+			Label: Mostrar propiedad en el árbol
+			Tooltip: Cambia el color del árbol según si tienes o no los objetos.
+		}
+
+		HorizontalLineThickness: {
+			Label: Grosor de línea horizontal
+			Tooltip: ""
+		}
+
+		VerticalLineThickness: {
+			Label: Grosor de línea vertical
+			Tooltip: ""
+		}
+
+		LineColor: {
+			Label: Color de la línea
+			Tooltip: ""
+		}
+
+		EnableLogging: {
+			Label: Habilitar registro/Logging
+			Tooltip: Agrega algunos registros al archivo client.log
+		}
+	}
+}

@@ -1,0 +1,6 @@
+displayName = Traducciones ESP Pack v1: IU, info y utilidades
+author = Elocura
+version = 0.1
+weakReferences = BossChecklist, BossChecklistLite, BossCursor, Census, CheatSheet, HEROsMod, ItemChecklist, MultiCrafting, Munchies, RecipeBrowser, WMITF
+sortAfter = BossChecklist, BossChecklistLite, BossCursor, Census, CheatSheet, HEROsMod, ItemChecklist, MultiCrafting, Munchies, RecipeBrowser, WMITF
+side = Client
