@@ -1,0 +1,39 @@
+¡Bienvenidos al primer pack de Traducciones ESP!
+
+La función de este pack es traducir al español 15 mods y sin necesidad de tenerlos todos descargados o activados.
+Este paquete y el siguiente que se está horneando, están pensados para que duren a largo plazo. Ya que usan los archivos de localización que brindan los desarrolladores de mods.
+
+Aquí está la lista de los mods soportados por este pack:
+
+Boss Checklist
+Boss Checklist Lite
+Boss Cursor
+Census - Town NPC Checklist
+Cheat Sheet
+HERO's Mod
+Item Checklist
+MagicStorageStarterBag
+MagicStorage Void Bag
+Magic Storage Starter Bag
+Recipe Viewer
+Munchies - Consumables Checklist
+Munchies - Calamity Addon
+Recipe Browser
+Recipe Browser include Magic Storage
+Which Mod Is This From?
+
+Datos relevantes:
+
+El mod Boss Checklist, Boss Checklist Lite,  Recipe Browser y HERO's Mod, se expandió la traducción a todos ellos, ya que gran parte de esos mods ya estaban en español.
+Y en el caso del mod Cheat Sheet, la expansión de la traducción fue poca.
+Créditos a los traductores originales de los 5 mods, por su trabajo.
+
+El caso del mod Recipe Browser include Magic Storage. El mod usa de manera directa la traducción original de Magic Storage y también usa la traducción del paquete, por esa razón tiene 15 archivos de traducción en este paquete y no 16.
+
+No estoy afiliado con ninguno de los propietarios de cada mod soportado por este paquete.
+
+¡Muchas gracias por el apoyo que ha recibido y sigue recibiendo los demás proyectos publicados, nos veremos, si es posible, en el siguiente paquete!
+
+Si quiere ver más información de este mod, como ver los otros mods de traducciones que he publicado, ver el proyecto, pero en github o cómo apoyarlo, haz clic en el botón de "Visitar mod en Steam Workshop".
+
+Ilustración del icono, creado por Baconfe.
