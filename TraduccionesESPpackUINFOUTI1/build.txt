@@ -1,0 +1,7 @@
+displayName = Traducciones ESP Pack v1: IU, info y utilidades
+author = Elocura
+version = 0.3.0.1005
+weakReferences = BossChecklist, BossChecklistLite, BossCursor, Census, CheatSheet, HEROsMod, ItemChecklist, MagicStorageStarterBag, MoreRecipeInfo, MSStarterBag, MultiCrafting, Munchies, Munchies_CalamityAddon, QuiteEnoughRecipes, RecipeBrowser, RecipeBrowserToMagicStorage, WMITF
+translationMod = True
+sortAfter = BossChecklist, BossChecklistLite, BossCursor, Census, CheatSheet, HEROsMod, ItemChecklist, MagicStorageStarterBag, MoreRecipeInfo, MSStarterBag, MultiCrafting, Munchies, Munchies_CalamityAddon, QuiteEnoughRecipes, RecipeBrowser, RecipeBrowserToMagicStorage, WMITF
+side = Client
