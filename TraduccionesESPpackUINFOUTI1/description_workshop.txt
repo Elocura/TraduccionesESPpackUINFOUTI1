@@ -1,0 +1,64 @@
+[h1]¡Bienvenidos al primer pack de Traducciones ESP![/h1]
+
+La función de este pack es traducir al español 17 mods y sin necesidad de tenerlos todos descargados o activados.
+Este paquete y el siguiente que se está horneando, están pensados para que duren a largo plazo. Ya que usan los archivos de localización que brindan los desarrolladores de mods.
+
+[h2]Mods soportados por este pack[/h2]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269]Boss Checklist[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3438267019]Boss Checklist Lite[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816694149]Boss Cursor[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031]Census - Town NPC Checklist[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563784437]Cheat Sheet[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2564645933]HERO's Mod[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2866111868]Item Checklist[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3287166927]MagicStorageStarterBag[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3012059027]More Recipe Info[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3281576339]Magic Storage Starter Bag[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3451139077]Recipe Viewer[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies - Consumables Checklist[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312725122]Munchies - Calamity Addon[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3419141018]Quite Enough Recipes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2619954303]Recipe Browser[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3453353275]Recipe Browser include Magic Storage[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816999612]Recipe Browser && Magic Storage[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005]Which Mod Is This From?[/url]
+
+También puede ver la lista haciendo clic [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3455130219]aquí[/url].
+Si quieres ver la lista de todas las traducciones que he publicado, haz clic [url=https://steamcommunity.com/workshop/filedetails/?id=3403445991]aquí[/url].
+
+[h2]Datos relevantes[/h2]
+
+En los siguientes mods, se ha traducido el contenido que todavía estaba en inglés:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269]Boss Checklist[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3438267019]Boss Checklist Lite[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2619954303]Recipe Browser[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2564645933]HERO's Mod[/url]
+
+Y en el caso del mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563784437]Cheat Sheet[/url], solo faltaba traducir 2 textos.
+Créditos a los traductores originales de los 5 mods, por su trabajo.
+
+El caso del mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3453353275]Recipe Browser include Magic Storage[/url]. El mod usa de manera directa la traducción original de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347]Magic Storage[/url] y también usa la traducción del paquete, por esa razón tiene 17 archivos de traducción en este paquete y no 18.
+
+No estoy afiliado con ninguno de los propietarios de cada mod soportado por este paquete.
+
+El proyecto de este pack está de manera pública en [url=https://github.com/Elocura/TraduccionesESPpackUINFOUTI1]Github[/url]
+
+[h2]Formas de apoyar al proyecto Traducciones ESP[/h2]
+
+- Subscribiéndose o dándole "Me gusta" a nuestras traducciones
+- También de manera totalmente opcional, puedes apoyar al proyecto de forma económica a través de [url=ko-fi.com/traduccionesesp]Ko-fi[/url]
+
+[h2]Servidor de Discord[/h2]
+
+¡Únete a nuestro servidor de Discord para estar al tanto de las nuevas actualizaciones y futuras traducciones! [url=https://discord.gg/zGNTc8cUr3]Unirse[/url].
+
+[h3]Datos extras[/h3]
+
+Este proyecto estuvo en mi mente desde febrero y a finales de ese mismo mes, se hicieron las primeras pruebas con resultados positivos y, luego de retomarlo el mes pasado, traducir más mods y/o expandir su traducción por varias semanas, hacer la planificación, buscar más información y hacer preguntas en algunos grupos de Discord. Dando como resultado este mod, y se planea publicar otro paquete más, para darle uso a algunas traducciones ya publicadas y otras no.
+
+Si encuentran algún error ortográfico, quieren hacer algún comentario respecto a la traducción o tienen alguna duda, ¡no duden en comentarlo!
+¡Muchas gracias por el apoyo que ha recibido y sigue recibiendo los demás proyectos publicados, nos veremos, si es posible, en el siguiente paquete!
+
+Ilustración del icono, creado por Baconfe.
+Coloreado en la descripcion del mod, por Cipres.

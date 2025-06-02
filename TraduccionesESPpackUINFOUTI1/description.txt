@@ -1,0 +1,77 @@
+[c/ffb703:¡Bienvenidos al primer pack de Traducciones ESP!]
+
+La función de este pack es traducir al español 17 mods y sin necesidad de tenerlos todos descargados o activados.
+Este paquete y el siguiente que se está horneando, están pensados para que duren a largo plazo. Ya que usan los archivos de localización que brindan los desarrolladores de mods.
+
+[c/52b788:Mods soportados por este pack]
+
+[c/e56b6f:Boss Checklist]
+[c/e56b6f:Boss Checklist Lite]
+[c/48cae4:Boss Cursor]
+[c/2a9d8f:Census - Town NPC Checklist]
+[c/fca311:Cheat Sheet]
+[c/b5179e:HERO's Mod]
+[c/7678ed:Item Checklist]
+[c/7cb518:MagicStorageStarterBag]
+[c/7cb518:Magic Storage Starter Bag]
+[c/ff70a6:More Recipe Info]
+[c/f4d58d:Recipe Viewer]
+[c/d62828:Munchies - Consumables Checklist]
+[c/d62828:Munchies - Calamity Addon]
+[c/43aa8b:Quite Enough Recipes]
+[c/52b788:Recipe Browser]
+[c/52b788:Recipe Browser include Magic Storage]
+[c/52b788:Recipe Browser && Magic Storage]
+[c/b2f7ef:Which Mod Is This From?]
+
+[c/ffb703:Datos Relevantes]
+
+En los siguientes mods, se ha traducido el contenido que todavía estaba en inglés:
+[c/e56b6f:Boss Checklist]
+[c/e56b6f:Boss Checklist Lite]
+[c/52b788:Recipe Browser]
+[c/b5179e:HERO's Mod]
+
+Y en el caso del mod [c/fca311:Cheat Sheet], solo faltaba traducir 2 textos.
+Créditos a los traductores originales de los 5 mods, por su trabajo.
+
+El caso del mod [c/52b788:Recipe Browser include Magic Storage]. El mod usa de manera directa la traducción original de [c/7cb518:Magic Storage] y también usa la traducción del paquete, por esa razón tiene 17 archivos de traducción en este paquete y no 18.
+
+No estoy afiliado con ninguno de los propietarios de cada mod soportado por este paquete.
+
+¡Muchas gracias por el apoyo que ha recibido y sigue recibiendo los demás proyectos publicados, nos veremos, si es posible, en el siguiente paquete!
+
+Si quiere ver más información de este mod, como ver los otros mods de traducciones que he publicado, ver el proyecto, pero en github o cómo apoyarlo, haz clic en el botón de "Visitar mod en Steam Workshop".
+
+Ilustración del icono, creado por Baconfe.
+Coloreado en la descripcion del mod, por Cipres.
+
+[c/06d6a0:---v0.3.0.1005---]
+
+- Pequeña actualización para aplicar los cambios que se le han hecho al archivo de localización del mod [c/e56b6f:Boss Checklist].
+
+Una disculpa, no la tardanza de la actualización.
+La V2 de este paquete va a tardar un poco más por problemas que tiene que ver con mi vista.
+
+[c/06d6a0:---v0.3.0.1002---]
+
+- Arreglos menores
+
+[c/06d6a0:---v0.3.0.1001---]
+
+- Se ha actualizado y cambiado más de 2 textos en algunos mods.
+- Se han añadido los archivos de localización originales para que cuando
+  Terraria esté en inglés, el paquete de traducción no siga traduciendo al
+  español los mods a los cuales le brinda soporte.
+  Una disculpa a los que experimentaron este error.
+
+- Ahora el paquete brinda soporte a 3 mods más, los cuales son:
+[c/ff70a6:More Recipe Info]
+[c/43aa8b:Quite Enough Recipes]
+[c/52b788:Recipe Browser && Magic Storage]
+
+- Se ha [c/d62828:eliminado] la traduccion del mod [c/d62828:MagicStorage Void Bag]
+  por alguna razón el mod dejó de estar disponible en el workshop de steam al
+  poco tiempo que se publicó este paquete de traducción.
+- Se ha coloreado la descripción del mod, que aparece adentro del Tmodloader.
+  Este cambio fue realizado por Cipres.
