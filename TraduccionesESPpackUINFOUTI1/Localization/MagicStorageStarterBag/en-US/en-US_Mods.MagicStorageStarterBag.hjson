@@ -1,0 +1,6 @@
+Items: {
+	MagicBag: {
+		DisplayName: Magic Bag
+		Tooltip: Press right click to obtain its contents!
+	}
+}

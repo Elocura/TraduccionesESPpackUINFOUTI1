@@ -1,0 +1,20 @@
+Configs: {
+	MoreRecipeInfoConfig: {
+		DisplayName: Config. More Recipe Info
+
+		animaionMaxFrameCounter: {
+			Label: Intervalo de animación de 'recipe group' (en fotograma)
+			Tooltip:
+				'''
+				[10 - 90]
+				60 = 1s
+				30 por defecto
+				
+				Ejemplo:
+				Si le das al guía el objeto 'gel' para ver la receta de la antorcha,
+				al tener el valor de esta opción en 90, la animación de cambio del
+				tipo de madera en dicha receta, será muy lenta.
+				'''
+		}
+	}
+}
