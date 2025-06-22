@@ -1,0 +1,100 @@
+Configs: {
+	CensusConfigClient: {
+		DisplayName: Census configuración del cliente
+
+		ShowLocatingArrow: {
+			Label: Mostrar flechas de localización de NPCs
+			Tooltip:
+				'''
+				Coloca el cursor sobre un NPC en el menú de 'Vivienda' para ver en qué dirección se encuentra.
+				Útil para encontrar NPC cuando lo has perdido de vista.
+				'''
+		}
+
+		ArrowColor: {
+			Label: Color de la flecha de localización
+			Tooltip: ""
+		}
+
+		DisableConditionsText: {
+			Label: Deshabilitar el texto de las condiciones de aparición
+			Tooltip:
+				'''
+				Habilite esto para evitar que se muestre el texto de la condición de aparición, de los NPCs.
+				Usa esto si quieres ver los NPC de la ciudad que podrían aparecer,
+				pero no quieres que te arruinen la experiencia en descubrir en cuáles condiciones aparecerá algunos NPCs.
+				'''
+		}
+
+		Headers.DeveloperOptions: "[c/ff0000:Opciones de desarrollador]"
+
+		DisableAutoLocalization: {
+			Label: Desactivar la localización automática
+			Tooltip:
+				'''
+				De forma predeterminada, el Censo agregará claves(o keys) de localización para el texto de condición de aparición,
+				de los NPC de la ciudad, contenidos en los mods que se están construyendo.
+				Establezca como verdadero para deshabilitar este comportamiento.
+				'''
+		}
+	}
+}
+
+Next: Next
+
+SpawnConditions: {
+	Unknown: Condiciones desconocidas
+	Guide: Siempre disponible, se genera al generarse el mapa por primera vez
+	Merchant: Ten 50 [i/s:SilverCoin] en tu inventario
+	Nurse: Tener más de 100 HP máxima, y que el Mercader haya llegado
+	Demolitionist: Ten un explosivo en tu inventario
+	DyeTrader: Ten cualquier tinte en tu inventario y derrota un jefe, o encuentra una planta extraña
+	Angler: Se encuentra en el océano
+	BestiaryGirl: Llene al menos el 10% del bestiario
+	Dryad:
+		'''
+		Cuando el Ojo de Cthulhu, Devoramundos,
+		el Cerebro de Cthulhu, o Esqueletrón, ha sido derrotado
+		'''
+	Painter: Adquiere a otros 8 NPCs en mundo
+	Golfer: Se encuentra en el desierto subterráneo
+	ArmsDealer: Ten balas o un arma de fuego en tu inventario
+	DD2Bartender:
+	    '''
+		Cuando Devoramundos o el Cerebro de Cthulhu haya sido derrotado,
+		se encontrará inconsciente en la superficie
+		'''
+	Stylist: A veces se encuentra en el interior de los nidos de arañas
+	GoblinTinkerer: A veces se encuentra en las cuevas, después de derrotar al Ejército de duendes
+	WitchDoctor: Cuando la Abeja reina ha sido derrotada
+	Clothier: Cuando Esqueletrón ha sido derrotado
+	Mechanic: Se encuentra en el interior de la mazmorra
+	PartyGirl: Adquiere a otros 14 NPCs en mundo
+	Wizard: Encuéntralo en las caverna, en el modo difícil
+	TaxCollector: En el modo difícil, purifica al Alma torturada con {$ItemName.PurificationPowder} [i:PurificationPowder], en el inframundo
+	Truffle: En el modo difícil, construye una casa en la superficie del bioma de hongos
+	Pirate: Cuando una Invasión pirata ha sido derrotada
+	Steampunker: Cuando un jefe mecánico ha sido derrotado
+	Cyborg: Cuando Plantera ha sido derrotada
+	SantaClaus: Cuando la Legión de Escarcha haya sido derrotada, solo durante el período del 15 al 31 de diciembre
+	Princess:
+	    '''
+		Tienes todos los demás NPCs de la ciudad, en el mundo
+		No cuentan las mascotas ni Papá Noel
+		'''
+	TownCat: Usa {$ItemName.LicenseCat} [i:LicenseCat], es vendido por la Zoóloga
+	TownDog: Usa {$ItemName.LicenseDog} [i:LicenseDog], es vendido por la Zoóloga
+	TownBunny: Usa {$ItemName.LicenseBunny} [i:LicenseBunny], es vendido por la Zoóloga
+	TownSlimeBlue: Cuando el Rey slime ha sido derrotado
+	TownSlimeGreen: Cuando hay una fiesta de forma natural
+	TownSlimeOld:
+	    '''
+		Desbloquea un Cofre viejo tembloroso en la capa de la caverna, con una {$ItemName.GoldenKey} [i:GoldenKey],
+		después de que Esqueletrón ha sido derrotado
+		'''
+	TownSlimePurple: Rompe el globo del Slime globo patoso en la capa espacial
+	TownSlimeRainbow: Dejar caer el {$ItemName.GelBalloon} [i:GelBalloon] en el Fulgor
+	TownSlimeRed: Pescado durante una Luna de Sangre
+	TownSlimeYellow: Usa {$ItemName.PurificationPowder} [i:PurificationPowder] sobre una Rana mística en la jungla
+	TownSlimeCopper: Deja caer un {$ItemName.CopperHelmet} [i:CopperHelmet] o una {$ItemName.CopperShortsword} [i:CopperShortsword] sobre un slime
+}

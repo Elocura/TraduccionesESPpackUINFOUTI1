@@ -1,0 +1,10 @@
+Items: {
+	MagicBag: {
+		DisplayName: Bolsa mágica
+		Tooltip:
+		   '''
+		   Qué contendra adentro...
+		   ¡Presione clic derecho para descubrirlo!
+		   '''
+	}
+}
