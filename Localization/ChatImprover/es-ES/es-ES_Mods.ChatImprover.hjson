@@ -1,0 +1,71 @@
+Configs: {
+	ChatImproverConfig: {
+		DisplayName: Opciones de configuración
+
+		isMouseScrollingEnabled: {
+			Label: Permitir el desplazamiento hacia arriba y abajo en el chat
+			Tooltip: Al estar habilitado, puedes subir para ver los mensajes anteriores o bajar, usando la rueda del ratón
+		}
+
+		isCaretMovable: {
+			Label: Permitir moverse horizontalmente por el chat
+			Tooltip:
+			    '''
+				Al estar habilitado, puedes moverte por el chat hacia la derecha o izquierda usando
+				las flechas del teclado, para editar el mensaje del chat sin necesidad de reescribirlo por completo.
+				'''
+		}
+
+		isPageNavigationEnabled: {
+			Label: Navegación de página usando las flechas del teclado
+			Tooltip:
+			    '''
+				Utilice las flechas de [c/ddab1c:arriba] o [c/ddab1c:abajo] del teclado para navegar por las páginas,
+				es decir, desplazarse 10 líneas hacia arriba o hacia abajo.
+				'''
+		}
+
+		isImeDeleteFixEnabled: {
+			Label: Fix IME Delete Bug
+			Tooltip:
+			   '''
+			   Fix the issue where the input method editor (IME) candidate box and the typed text are deleted simultaneously.
+			   Se ve que esta opción es para solucionar un bug que ocurre con algunos idiomas, en el cual no se borra correctamente el texto del chat.
+			   '''
+		}
+
+		RightSymbol: {
+			Tooltip: "Añade un texto/símbolo personalizado atrás del nombre de tu personaje en el chat"
+			Label: Símbolo de la derecha
+		}
+
+		LeftSymbol: {
+			Tooltip: "Añade un texto/símbolo personalizado adelante del nombre de tu personaje en el chat"
+			Label: Símbolo de la izquierda
+		}
+
+		Headers: {
+			NameFormat: Formato del nombre del jugador
+			CommonConfig: Configuraciones comunes
+			BetaConfig: Característica experimental
+		}
+
+		nameColor: {
+			Label: Color del nombre
+			Tooltip:
+			    '''
+				Personaliza el color del nombre de tu personaje en el chat,
+				escribiendo el nombre del color en hexadecimal.
+				'''
+		}
+
+		showCount: {
+			Label: Mostrar el recuento de líneas del historial de chat
+			Tooltip:
+			    '''
+				Se supone que es un limitador de líneas en el chat,
+				intenté hacerlo funcionar, pero no he logrado resultados.
+				'''
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Configs: {
+	MoreRecipeInfoConfig: {
+		DisplayName: More Recipe Info Config
+
+		animaionMaxFrameCounter: {
+			Label: Recipe Group Animation Interval (frame)
+			Tooltip:
+				'''
+				[10 - 90]
+				60 = 1s
+				30 by default
+				'''
+		}
+	}
+}

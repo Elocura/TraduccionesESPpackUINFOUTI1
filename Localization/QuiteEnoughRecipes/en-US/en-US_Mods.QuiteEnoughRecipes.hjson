@@ -1,0 +1,166 @@
+Keybinds: {
+	OpenUI.DisplayName: Toggle QER browser
+	HoverSources.DisplayName: Show sources for hovered item
+	HoverUses.DisplayName: Show uses for hovered item
+	Back.DisplayName: Go to previous recipe page
+}
+
+UI: {
+	SearchBarDefault: Search
+	FilterHover: Filters
+	SortHover: Sort Options
+	RightClickToClear: Right click to restore defaults
+	ShiftRightClickToClearLocks: Shift + Right click to clear locks and restore defaults
+	ResultCount: "{0}/{1} ({2} filtered out)"
+	ItemSearchHelp:
+		'''
+		[c/32FF82:Search Syntax]
+		Any text following a [c/3B95DA:#] will be searched for in item tooltips.
+
+		To search by mod, include [c/3B95DA:@ModName] in your search, where
+		[c/3B95DA:ModName] is in the name of the mod with any spaces removed.
+		'''
+	NPCSearchHelp:
+		'''
+		[c/32FF82:Search Syntax]
+		Any text following a [c/3B95DA:#] will be searched for in the NPC's
+		bestiary flavor text.
+
+		To search by mod, include [c/3B95DA:@ModName] in your search, where
+		[c/3B95DA:ModName] is in the name of the mod with any spaces removed.
+		'''
+	FilterHelp:
+		'''
+		[c/32FF82:Usage]
+		[c/3B95DA:Left click] a filter to enable it. You can enable multiple
+		filters at once by holding [c/3B95DA:shift] while clicking them. Only
+		results matching all of the enabled filters will be shown.
+
+		[c/3B95DA:Right click] a filter to invert it. Results matching any of
+		the inverted filters will not be shown.
+
+		Hold [c/3B95DA:{0}] while enabling or inverting a filter to lock it.
+		Locked filters will not be reset automatically.
+
+		[c/3B95DA:Right click] anywhere in this panel to reset all non-locked
+		filters. [c/3B95DA:Shift + right click] in this panel to also reset
+		locked filters.
+		'''
+}
+
+Configs: {
+	QERConfig: {
+		ShouldPreloadItems: {
+			Label: Preload Item Textures
+			Tooltip:
+				'''
+				If this option is enabled, item textures will be preloaded when a world is loaded,
+				which should reduce lag when scrolling through the item list. This may significantly
+				increase the time it takes to load a world the first time in a session.
+				'''
+		}
+
+		AutoFocusSearchBars: {
+			Label: Automatically Focus Search Bars
+			Tooltip:
+				'''
+				If this is enabled, the search bar will automatically be focused when opening the
+				browser or when switching tabs.
+				'''
+		}
+
+		ShowDropChancesInTooltips: {
+			Label: Show Drop Chances in Tooltips
+			Tooltip:
+				'''
+				An item's drop chance will be displayed in the tooltip instead of being drawn on top
+				of the item.
+				'''
+		}
+
+		DisplayName: QER Config
+	}
+}
+
+Tabs: {
+	ItemList: Items
+	NPCList: NPCs
+	Recipes: Recipes
+	Tiles: Recipes Requiring this Crafting Station
+	Shimmer: Shimmer Transmutations
+	Shops: NPC Shops
+	ItemDrops: Item Loot
+	NPCDrops: NPC Loot
+	GlobalDrops: Global Loot
+}
+
+OptionGroups: {
+	ItemFilters: {
+		Misc: {
+			Name: Miscellaneous Item Categories
+			IsTile: Tiles
+			IsCraftingStation: Crafting Stations
+			IsBossSummon: Boss Summons
+			IsLootItem: Loot Items
+			IsFishing: Fishing
+			IsDye: Dye
+			IsAccessory: Accessories
+			IsTool: Tools
+			IsArmor: Armor
+			IsVanity: Vanity
+			IsPotion: Potions
+			IsFood: Food
+			IsWings: Wings
+			IsPet: Pets
+			IsMount: Mounts
+			IsHook: Hooks
+		}
+
+		Weapons: {
+			Name: Weapon Categories
+			IsMeleeWeapon: Melee Weapons
+			IsRangedWeapon: Ranged Weapons
+			IsMagicWeapon: Magic Weapons
+			IsSummonWeapon: Summoner Weapons
+			IsClasslessWeapon: Classless Weapons
+			IsThrowingWeapon: Throwing Weapons
+			# Used to format other damage types.
+			IsOtherWeapon: "{0} Weapons"
+		}
+	}
+
+	ItemSorts: {
+		Name: Item Sort Orders
+		ByCreative: Sort in Creative Order
+		ByID: Sort by ID
+		ByName: Sort Alphabetically
+		ByRarity: Sort by Rarity
+		ByValue: Sort by Value
+	}
+
+	NPCFilters: {
+		Name: NPC Categories
+		IsBoss: Bosses
+		IsTownNPC: Town NPCs
+	}
+
+	NPCSorts: {
+		Name: NPC Sort Orders
+		ByBestiary: Sort in Bestiary Order
+		ByID: "{$ItemSorts.ByID}"
+		ByName: "{$ItemSorts.ByName}"
+		ByRarity: "{$ItemSorts.ByRarity}"
+	}
+
+	Mods: {
+		Name: Mods
+		ModName: "{0}"
+	}
+}
+
+Tooltips: {
+	DropChance: "{0} drop chance"
+	RecipeAddedBy: Recipe added by {0}
+}
+
+Conditions.BannerDrop: Drops once for every {0} kills

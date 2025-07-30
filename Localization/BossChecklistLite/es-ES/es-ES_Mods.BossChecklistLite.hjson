@@ -1,0 +1,144 @@
+Keybinds: {
+}
+
+ChatMessages: {
+	Defeated: {
+	}
+}
+
+Configs: {
+	BossLogConfiguration: {
+		Headers: {
+		}
+
+		BossLogColor: {
+		}
+
+		BossLogPos: {
+		}
+
+		ShowInteractionTooltips: {
+		}
+
+		Debug: {
+		}
+
+		AutomaticChecklist: {
+		}
+
+		ProgressiveChecklist: {
+		}
+
+		ProgressionPrompt: {
+		}
+
+		HideUnavailable: {
+		}
+
+		HideUnsupported: {
+		}
+
+		OnlyBosses: {
+		}
+
+		FilterBosses: {
+		}
+
+		FilterMiniBosses: {
+		}
+
+		FilterEvents: {
+		}
+
+		ColoredBossText: {
+		}
+
+		SelectedCheckmarkType: {
+		}
+
+		DrawNextMark: {
+		}
+
+		ShowProgressBars: {
+		}
+
+		LootChecklist: {
+		}
+
+		CheckDroppedLoot: {
+		}
+	}
+
+	DebugTools: {
+		ModCallLogVerbose: {
+		}
+
+		DisableAutoLocalization: {
+		}
+
+		AccessInternalNames: {
+		}
+
+		ShowProgressionValue: {
+		}
+
+		ShowCollectionType: {
+		}
+
+		EnabledResetOptions: {
+		}
+	}
+
+	FeatureConfiguration: {
+		Headers: {
+		}
+
+		RecordTrackingEnabled: {
+		}
+
+		AllowNewRecords: {
+		}
+
+		NewRecordLogGlow: {
+		}
+
+		TimeValueFormat: {
+		}
+
+		DisplayRecordTracking: {
+		}
+
+		DespawnMessageType: {
+		}
+
+		LimbMessages: {
+		}
+
+		MoonMessages: {
+		}
+
+		TimerSounds: {
+		}
+
+		TreasureBagsOnMap: {
+		}
+
+		FragmentsOnMap: {
+		}
+
+		ScalesOnMap: {
+		}
+
+		EnableBossRadar: {
+		}
+
+		RadarMiniBosses: {
+		}
+
+		RadarOpacity: {
+		}
+
+		RadarBlacklist: {
+		}
+	}
+}

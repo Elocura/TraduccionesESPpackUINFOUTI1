@@ -1,0 +1,21 @@
+Items: {
+	StarterBag: {
+		DisplayName: Bolsa de comienzo
+		Tooltip:
+		    '''
+			¡Una nueva aventura nos espera!
+			{$CommonItemTooltip.RightClickToOpen}
+			'''
+	}
+}
+
+Configs: {
+	BagConfig: {
+		StorageUnitAmount: {
+			Tooltip: "Personalice la cantidad de [c/ddab1c:unidad de almacenamiento], te dará al abrir la [c/aa4eae:bolsa de comienzo]"
+			Label: Cantidad de unidades de almacenamiento
+		}
+
+		DisplayName: Configuración de bolsa
+	}
+}
