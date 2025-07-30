@@ -1,0 +1,10 @@
+Configs: {
+	MagicStrorageAddOnConfig: {
+		DisplayName: Magic Strorage Add On Config
+
+		GiveStartingItems: {
+			Label: Give Magic Storage Starting Items
+			Tooltip: ""
+		}
+	}
+}
