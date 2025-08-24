@@ -1,20 +1,20 @@
 Configs: {
 	ServerConfig: {
-		// DisplayName: Server Config
+		DisplayName: Server Config
 
 		allowmp: {
-			// Label: Allow in multiplayer
-			// Tooltip: ""
+			Label: Allow in multiplayer
+			Tooltip: ""
 		}
 
 		xrange: {
-			// Label: X crafting range
-			// Tooltip: ""
+			Label: X crafting range
+			Tooltip: ""
 		}
 
 		yrange: {
-			// Label: Y crafting range
-			// Tooltip: ""
+			Label: Y crafting range
+			Tooltip: ""
 		}
 	}
 }

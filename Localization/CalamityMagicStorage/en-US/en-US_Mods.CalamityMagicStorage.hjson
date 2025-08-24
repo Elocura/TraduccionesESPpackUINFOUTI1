@@ -1,0 +1,120 @@
+Tiles: {
+	WorldChest: {
+		Locked: Locked Chest
+		MapEntry1: Chest
+		MapEntry0: Chest
+	}
+
+	UelibloomStorageUnitTile.MapEntry: Storage Unit
+	CosmiliteStorageUnitTile.MapEntry: Storage Unit
+	AuricStorageUnitTile.MapEntry: Storage Unit
+	ExoStorageUnitTile.MapEntry: Storage Unit
+	ShadowspecStorageUnitTile.MapEntry: Storage Unit
+}
+
+Items: {
+	UelibloomCore.DisplayName: Uelibloom Core
+
+	UelibloomUpgrade: {
+		DisplayName: Uelibloom Storage Upgrade
+		Tooltip:
+			'''
+			Upgrades storage unit to 720 capacity
+			Right Click a Terra Storage Unit to use
+			'''
+	}
+
+	UelibloomStorageUnitItem: {
+		DisplayName: Uelibloom Storage Unit
+		Tooltip:
+			'''
+			A component for storing items in a Magic Storage storage system
+			Can store up to 720 items
+			'''
+	}
+
+	CosmiliteCore.DisplayName: Cosmilite Core
+
+	CosmiliteUpgrade: {
+		DisplayName: Cosmilite Storage Upgrade
+		Tooltip:
+			'''
+			Upgrades storage unit to 800 capacity
+			Right Click a Uelibloom Storage Unit to use
+			'''
+	}
+
+	CosmiliteStorageUnitItem: {
+		DisplayName: Cosmilite Storage Unit
+		Tooltip:
+			'''
+			A component for storing items in a Magic Storage storage system
+			Can store up to 800 items
+			'''
+	}
+
+	AuricCore.DisplayName: Auric Core
+
+	AuricUpgrade: {
+		DisplayName: Auric Storage Upgrade
+		Tooltip:
+			'''
+			Upgrades storage unit to 880 capacity
+			Right Click a Cosmilite Storage Unit to use
+			'''
+	}
+
+	AuricStorageUnitItem: {
+		DisplayName: Auric Storage Unit
+		Tooltip:
+			'''
+			A component for storing items in a Magic Storage storage system
+			Can store up to 880 items
+			'''
+	}
+
+	ExoCore.DisplayName: Exo Core
+
+	ExoUpgrade: {
+		DisplayName: Exo Storage Upgrade
+		Tooltip:
+			'''
+			Upgrades storage unit to 960 capacity
+			Right Click a Auric Storage Unit to use
+			'''
+	}
+
+	ExoStorageUnitItem: {
+		DisplayName: Exo Storage Unit
+		Tooltip:
+			'''
+			A component for storing items in a Magic Storage storage system
+			Can store up to 960 items
+			'''
+	}
+
+	ShadowspecCore.DisplayName: Shadowspec Core
+
+	ShadowspecUpgrade: {
+		DisplayName: Shadowspec Storage Upgrade
+		Tooltip:
+			'''
+			Upgrades storage unit to 1040 capacity
+			Right Click a Exo Storage Unit to use
+			'''
+	}
+
+	ShadowspecStorageUnitItem: {
+		DisplayName: Shadowspec Storage Unit
+		Tooltip:
+			'''
+			A component for storing items in a Magic Storage storage system
+			Can store up to 1040 items
+			'''
+	}
+
+	WorldChest: {
+		DisplayName: World Chest
+		Tooltip: ""
+	}
+}

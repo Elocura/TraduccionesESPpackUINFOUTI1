@@ -51,7 +51,7 @@ SpawnConditions: {
 	Demolitionist: Ten un explosivo en tu inventario
 	DyeTrader: Ten cualquier tinte u objeto que se use para hacer tintes en tu inventario y derrota un jefe, o encuentra una [c/ddab1c:planta extraña]
 	Angler: Se encuentra en el océano
-	BestiaryGirl: Llene al menos el 10% del bestiario
+	BestiaryGirl: Llene al menos el 10% del [c/00FFFF:bestiario]
 	Dryad:
 		'''
 		Cuando el [c/d8827b:ojo de Cthulhu], [c/9666a2:devoramundos],

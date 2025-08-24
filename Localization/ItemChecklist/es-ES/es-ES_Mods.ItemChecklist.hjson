@@ -15,14 +15,20 @@ Configs: {
 
 		ItemChecklistSize: {
 			Label: Tamaño de la checklist
-			Tooltip: Tamaño de la IU del catálogo de objetos.
-			Se guardará automáticamente; no es necesario ajustarlo.
+			Tooltip:
+			    '''
+				Tamaño de la IU del catálogo de objetos.
+				Se guardará automáticamente; no es necesario ajustarlo.
+				'''
 		}
 
 		ItemChecklistPosition: {
 			Label: Posición de la checklist
-			Tooltip: Posición de la IU del catálogo de objetos.
-			Se guardará automáticamente; no es necesario ajustarlo.
+			Tooltip:
+			    '''
+				Posición de la IU del catálogo de objetos.
+				Se guardará automáticamente; no es necesario ajustarlo.
+				'''
 		}
 	}
 }

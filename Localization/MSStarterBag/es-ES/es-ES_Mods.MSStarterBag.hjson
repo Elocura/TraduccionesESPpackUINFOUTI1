@@ -11,11 +11,78 @@ Items: {
 
 Configs: {
 	BagConfig: {
-		StorageUnitAmount: {
-			Tooltip: "Personalice la cantidad de [c/ddab1c:unidad de almacenamiento], te dará al abrir la [c/aa4eae:bolsa de comienzo]"
-			Label: Cantidad de unidades de almacenamiento
+		DisplayName: Configuración
+
+		GetStorageHeart: {
+			Label: "[i:MagicStorage/StorageHeart] Obtener un corazón de almacenamiento"
+			Tooltip: Si obtienes un [c/0ecb75:corazón de almacenamiento]
 		}
 
-		DisplayName: Configuración de bolsa
+		GetCraftingAccess: {
+			Label: "[i:MagicStorage/CraftingAccess] Obtener la interfaz de creación"
+			Tooltip: Si obtienes una [c/a4ceeb:interfaz de creación]
+		}
+
+		StorageUnitAmount: {
+			Label: "[i:MagicStorage/StorageUnit] Cantidad de unidades de almacenamiento"
+			Tooltip: "Cantidad de [c/ddab1c:unidad de almacenamiento] que obtendrás"
+		}
+
+		CrimtaneAmount: {
+			Label: "[i:MagicStorage/UpgradeCrimtane] Cantidad de actualización de U.A (carmesí)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (carmesí)] que obtendrás "
+		}
+
+		DemoniteAmount: {
+			Label: "[i:MagicStorage/UpgradeDemonite] Cantidad de actualización de U.A (endemoniado)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (endemoniado)] que obtendrás"
+		}
+
+		HellstoneAmount: {
+			Label: "[i:MagicStorage/UpgradeHellstone] Cantidad de actualización de U.A (piedra infernal)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (piedra infernal)] que obtendrás"
+		}
+
+		HallowedAmount: {
+			Label: "[i:MagicStorage/UpgradeHallowed] Cantidad de actualización de U.A (sagrado)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (sagrado)] que obtendrás"
+		}
+
+		ChlorophyteAmount: {
+			Label: "[i:MagicStorage/UpgradeBlueChlorophyte] Cantidad de actualización de U.A (clorofita azul)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (clorofita azul)] que obtendrás"
+		}
+
+		LuminiteAmount: {
+			Label: "[i:MagicStorage/UpgradeLuminite] Cantidad de actualización de U.A (luminita)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (luminita)] que obtendrás"
+		}
+
+		TerraAmount: {
+			Label: "[i:MagicStorage/UpgradeTerra] Cantidad de actualización de U.A (mundial)"
+			Tooltip: "Cantidad de [c/ddab1c:actualización de unidad de almacenamiento (mundial)] que obtendrás"
+		}
+
+		ShadowDiamondAmount: {
+			Label: "[i:MagicStorage/ShadowDiamond] Cantidad de diamantes sombríos"
+			Tooltip: "Cantidad de [c/b093b7:diamante sombrío] que obtendrás"
+		}
+
+		ComponentAmount: {
+			Label: "[i:MagicStorage/StorageComponent] Cantidad de componentes de almacenamiento"
+			Tooltip: "Cantidad de [c/ddab1c:componentes de almacenamiento] que obtendrás"
+		}
+
+		Headers: {
+			Configs: {
+				BagConfig: {
+					Headers: {
+						StorageUpgrades: Actualizaciones de unidad de almacenamiento
+						Basic: Básico
+						Extra: Extras
+					}
+				}
+			}
+		}
 	}
 }

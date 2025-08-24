@@ -1,0 +1,21 @@
+Mods: {
+	MagicStorageVoidBag: {
+		ItemName.MSVoidBag: Bolsa de vacío mágica
+		ItemTooltip.MSVoidBag:
+			'''
+			<right> al [c/0ecb75:corazón de almacenamiento] para registrar su ubicación
+			Actualmente no configurado en ninguna ubicación
+			'''
+
+		Items: {
+			MSVoidBag: {
+				DisplayName: M S Bolsa de vacío
+				Tooltip:
+				'''
+				<right> al [c/0ecb75:corazón de almacenamiento] para registrar su ubicación
+				Actualmente no configurado en ninguna ubicación
+				'''
+			}
+		}
+	}
+}

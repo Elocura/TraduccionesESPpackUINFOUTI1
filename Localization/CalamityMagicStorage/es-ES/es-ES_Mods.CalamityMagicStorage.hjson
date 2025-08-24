@@ -1,0 +1,120 @@
+Tiles: {
+	WorldChest: {
+		Locked: Cofre cerrado
+		MapEntry1: Cofre
+		MapEntry0: Cofre
+	}
+
+	UelibloomStorageUnitTile.MapEntry: Unidad de almacenamiento
+	CosmiliteStorageUnitTile.MapEntry: Unidad de almacenamiento
+	AuricStorageUnitTile.MapEntry: Unidad de almacenamiento
+	ExoStorageUnitTile.MapEntry: Unidad de almacenamiento
+	ShadowspecStorageUnitTile.MapEntry: Unidad de almacenamiento
+}
+
+Items: {
+	UelibloomCore.DisplayName: Núcleo de almacenamiento (Uelibloom)
+
+	UelibloomUpgrade: {
+		DisplayName: Actualización de unidad de almacenamiento (Uelibloom)
+		Tooltip:
+			'''
+			Capacidad de unidad de almacenamiento mejorada a 720.
+			<right> en la unidad de almacenamiento (mundial) para utilizar.
+			'''
+	}
+
+	UelibloomStorageUnitItem: {
+		DisplayName: Unidad de almacenamiento (Uelibloom)
+		Tooltip:
+			'''
+			Un componente para almacenar objetos en un sistema de almacenamiento.
+			Puede almacenar hasta 720 objetos.
+			'''
+	}
+
+	CosmiliteCore.DisplayName: Núcleo de almacenamiento (cosmilita)
+
+	CosmiliteUpgrade: {
+		DisplayName: Actualización de unidad de almacenamiento (cosmilita)
+		Tooltip:
+			'''
+			Capacidad de unidad de almacenamiento mejorada a 800.
+			<right> en la unidad de almacenamiento (Uelibloom) para utilizar.
+			'''
+	}
+
+	CosmiliteStorageUnitItem: {
+		DisplayName: Unidad de almacenamiento (cosmilita)
+		Tooltip:
+			'''
+			Un componente para almacenar objetos en un sistema de almacenamiento.
+			Puede almacenar hasta 800 objetos.
+			'''
+	}
+
+	AuricCore.DisplayName: Núcleo de almacenamiento (áurico)
+
+	AuricUpgrade: {
+		DisplayName: Actualización de unidad de almacenamiento (áurico)
+		Tooltip:
+			'''
+			Capacidad de unidad de almacenamiento mejorada a 880.
+			<right> en la unidad de almacenamiento (cosmilita) para utilizar.
+			'''
+	}
+
+	AuricStorageUnitItem: {
+		DisplayName: Unidad de almacenamiento (áurico)
+		Tooltip:
+			'''
+			Un componente para almacenar objetos en un sistema de almacenamiento.
+			Puede almacenar hasta 880 objetos.
+			'''
+	}
+
+	ExoCore.DisplayName: Núcleo de almacenamiento (Exo)
+
+	ExoUpgrade: {
+		DisplayName: Actualización de unidad de almacenamiento (Exo)
+		Tooltip:
+			'''
+			Capacidad de unidad de almacenamiento mejorada a 960.
+			<right> en la unidad de almacenamiento (áurico) para utilizar.
+			'''
+	}
+
+	ExoStorageUnitItem: {
+		DisplayName: Unidad de almacenamiento (Exo)
+		Tooltip:
+			'''
+			Un componente para almacenar objetos en un sistema de almacenamiento.
+			Puede almacenar hasta 960 objetos.
+			'''
+	}
+
+	ShadowspecCore.DisplayName: Núcleo de almacenamiento (Shadowspec)
+
+	ShadowspecUpgrade: {
+		DisplayName: Actualización de unidad de almacenamiento (Shadowspec)
+		Tooltip:
+			'''
+			Capacidad de unidad de almacenamiento mejorada a 1040.
+			<right> en la unidad de almacenamiento (Exo) para utilizar.
+			'''
+	}
+
+	ShadowspecStorageUnitItem: {
+		DisplayName: Unidad de almacenamiento (Shadowspec)
+		Tooltip:
+			'''
+			Un componente para almacenar objetos en un sistema de almacenamiento.
+			Puede almacenar hasta 1040 objetos.
+			'''
+	}
+
+	WorldChest: {
+		DisplayName: Cofre del mundo
+		Tooltip: ""
+	}
+}

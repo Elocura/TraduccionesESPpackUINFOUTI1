@@ -423,6 +423,11 @@ Mods: {
 						'''
 				}
 
+				OpenKeybindingsMenuButton: {
+					Label: Open Keybindings Menu
+					Tooltip: Open the keybindings menu to change the hotkeys for this mod
+				}
+
 				Headers.AutomaticSettings: Ajustes automáticos
 
 				RecipeBrowserSize: {
