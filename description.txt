@@ -1,6 +1,6 @@
 [c/ffb703:¡Bienvenidos al primer pack de Traducciones ESP!]
 
-La función de este pack es traducir al español 22 mods y sin necesidad de tenerlos todos descargados o activados.
+La función de este pack es traducir al español 26 mods y sin necesidad de tenerlos todos descargados o activados.
 Este paquete y el siguiente que se está horneando, están pensados para que duren a largo plazo. Ya que usan los archivos de localización que brindan los desarrolladores de mods.
 
 [c/52b788:Mods soportados por este pack]
@@ -8,19 +8,23 @@ Este paquete y el siguiente que se está horneando, están pensados para que dur
 [c/e56b6f:Boss Checklist]
 [c/e56b6f:Boss Checklist Lite]
 [c/48cae4:Boss Cursor]
+[c/d62828:Calamity Magic Storage (API Update)]
 [c/2a9d8f:Census - Town NPC Checklist]
 [c/8aa0e0:BetterChatBox]
 [c/8aa0e0:Chat Source]
 [c/fca311:Cheat Sheet]
 [c/b5179e:HERO's Mod]
 [c/7678ed:Item Checklist]
+[c/7cb518:Magic Storage]
 [c/7cb518:MagicStorageStarterBag]
+[c/7cb518:MagicStorage Void Bag]
 [c/7cb518:Magic Storage Add-On]
 [c/ff70a6:More Recipe Info]
 [c/7cb518:Magic Storage Starter Bag]
 [c/f4d58d:Recipe Viewer]
 [c/d62828:Munchies - Consumables Checklist]
 [c/d62828:Munchies - Calamity Addon]
+[c/d62828:Munchies Hunt of the Old God & Wrath of the Gods Addon]
 [c/43aa8b:Quite Enough Recipes]
 [c/54fcfc:Rare Drop Notification]
 [c/52b788:Recipe Browser]
@@ -36,22 +40,65 @@ En los siguientes mods, se ha traducido más contenido al español:
 [c/e56b6f:Boss Checklist Lite]
 [c/52b788:Recipe Browser]
 [c/b5179e:HERO's Mod]
+[c/7cb518:Magic Storage]
 
 Y en el caso del mod [c/fca311:Cheat Sheet], solo faltaba traducir 2 textos.
-Créditos a los traductores originales de los 5 mods, por su trabajo.
+Créditos a los traductores originales de los 6 mods, por su trabajo.
 
-El caso del mod [c/52b788:Recipe Browser include Magic Storage]. El mod usa de manera directa la traducción original de [c/7cb518:Magic Storage] y también usa la traducción del paquete, por esa razón tiene 22 archivos de traducción en este paquete y no 23.
+El caso del mod [c/52b788:Recipe Browser include Magic Storage]. El mod usa de manera directa ambas traducciones que brinda el paquete y no cuenta con su propio archivo de localización, por esa razón tiene 26 archivos de traducción en este paquete y no 27.
+
+Tanto la traducción del [c/d62828:Calamity Magic Storage (API Update)] como la de [c/d62828:Munchies - Calamity Addon], usan como referencia la traducción "Calamity mod Traducción Español/Calamity Mod spanish translation", para una buena sinergia entre este paquete y la traducción del calamity.
 
 No estoy afiliado con ninguno de los propietarios de cada mod soportado por este paquete.
 
 ¡Muchas gracias por el apoyo que ha recibido y sigue recibiendo los demás proyectos publicados, nos veremos, si es posible, en el siguiente paquete!
 
-Si quiere ver más información de este mod, como ver los otros mods de traducciones que he publicado, ver el proyecto, pero en github o cómo apoyarlo, haz clic en el botón de "Visitar mod en Steam Workshop".
+Si quiere ver más información de este mod, como ver los otros mods de traducciones que he publicado, ver el proyecto, pero en github o cómo apoyarlo, haz clic en el botón de [c/ddab1c:Visitar mod en Steam Workshop].
 
 Ilustración del icono, creado por Baconfe.
 Coloreado en la descripcion del mod, por Cipres.
 
 [c/ffb703:Historial de actualizaciones]
+
+[c/06d6a0:---v0.5.0.1030---]
+
+- Se ha puesto al día la traducción de estos 2 mods:
+
+[c/52b788:Recipe Browser]
+[c/7cb518:Magic Storage Starter Bag]
+
+- Se ha revisado y aplicado un par de cambios a todas estas traducciones:
+
+[c/e56b6f:Boss Checklist]
+[c/e56b6f:Boss Checklist Lite]
+[c/2a9d8f:Census - Town NPC Checklist]
+[c/fca311:Cheat Sheet]
+[c/b5179e:HERO's Mod]
+[c/7678ed:Item Checklist]
+[c/7cb518:Magic Storage Add-On]
+[c/ff70a6:More Recipe Info]
+[c/7cb518:Magic Storage Starter Bag]
+[c/f4d58d:Recipe Viewer]
+[c/d62828:Munchies - Consumables Checklist]
+[c/d62828:Munchies - Calamity Addon]
+[c/43aa8b:Quite Enough Recipes]
+[c/54fcfc:Rare Drop Notification]
+[c/52b788:Recipe Browser]
+[c/52b788:Recipe Browser && Magic Storage]
+
+- Ahora el paquete brinda soporte a 4 mods más, los cuales son:
+
+[c/d62828:Calamity Magic Storage (API Update)]
+[c/7cb518:Magic Storage]
+[c/7cb518:MagicStorage Void Bag]
+[c/d62828:Munchies Hunt of the Old God & Wrath of the Gods Addon]
+
+En el caso de la traducción de [c/7cb518:MagicStorage Void Bag], es una traducción que fue retirada por no estar disponible al poco tiempo el mod. Ahora que ha regresado, también lo ha hecho su traducción con una ligera modificación.
+La traducción para el mod [c/d62828:Calamity Magic Storage (API Update)], se ha usado de referencia la traducción "Calamity mod Traducción Español/Calamity Mod spanish translation", dando como resultado, una buena sinergia entre este paquete y la traducción del Calamity Mod.
+Es el mismo caso de [c/d62828:Munchies - Calamity Addon].
+En el caso de [c/7cb518:Magic Storage], el contenido, que estaba todavía en inglés, ahora está en español, como también se aplicaron un par de correcciones.
+
+Agradezco a LewisPhantom y Baconfe por su darme su opinión y hacer que quedara mejor la traducción en la "interfaz etérea" de [c/7cb518:Magic Storage].
 
 [c/06d6a0:---v0.5.0.1001---]
 
